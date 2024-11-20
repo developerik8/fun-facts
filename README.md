@@ -14,6 +14,8 @@ This is a simple single-page application that displays random facts. The app is 
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
+- App link : https://developerik8.github.io/fun-facts/
+
 ## Setup
 
 To set up the project locally, follow these steps:
